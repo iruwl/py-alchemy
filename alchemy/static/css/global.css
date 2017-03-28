@@ -1,0 +1,93 @@
+/**
+ * Digunakan untuk menyesuaikan/mempercantik UI tanpa mengubah base CSS yg sudah ada.
+ * Khairul Anwar @ 20161011
+ */
+
+.btn {
+    border-radius: 0px;
+}
+
+select.form-control {
+    padding: 0px 2px;
+}
+
+label.form-control {
+    padding: 0px 2px;
+}
+
+.control-label {
+    font-weight: normal;
+}
+
+table {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+.loading {
+    -webkit-transition: width .3s ease-in-out;
+    -o-transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+    background-color: transparent;
+    text-align: center;
+    display: block;
+    float: left;
+    color: #f6f6f6;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    padding: 0 15px;
+}
+
+
+/**
+ * Horizontal line
+ */
+
+hr {
+    margin: 0 0 6px;
+}
+
+
+/**
+ * Datatables hack
+ */
+
+table.dataTable tbody tr.selected {
+    background-color: #B0BED9;
+}
+
+
+/** menghilangkan border double, blm tau ngaruh kemana selain setingan standar */
+
+table.table-bordered.dataTable {
+    border-collapse: collapse !important;
+}
+
+
+/**
+ * Prettify upload/file button
+ * @link https://www.abeautifulsite.net/whipping-file-inputs-into-shape-with-bootstrap-3
+ */
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}

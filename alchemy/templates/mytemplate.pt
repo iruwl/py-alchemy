@@ -1,0 +1,16 @@
+<div metal:use-macro="load: mainlayout.pt">
+    <section class="content" metal:fill-slot="content">
+
+        <div class="box box-solid">
+            <div class="box-header with-border">
+                <h3 class="box-title">Starter project</h3>
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body">
+                    Welcome to <span class="font-normal">starter2</span>, a&nbsp;Pyramid
+                    application generated&nbsp;by <span class="font-normal">Cookiecutter</span>.
+            </div>
+            <!-- /.box-body -->
+        </div>
+    </section>
+</div>

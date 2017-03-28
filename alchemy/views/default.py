@@ -6,7 +6,7 @@ from sqlalchemy.exc import DBAPIError
 from ..models import MyModel
 
 
-@view_config(route_name='home', renderer='../templates/mytemplate.jinja2')
+@view_config(route_name='home', renderer='../templates/mytemplate.pt')
 def my_view(request):
     try:
         query = request.dbsession.query(MyModel)
@@ -14,6 +14,7 @@ def my_view(request):
     except DBAPIError:
         return Response(db_err_msg, content_type='text/plain', status=500)
     return {'one': one, 'project': 'alchemy'}
+    # return {'project': 'starter2'}
 
 
 db_err_msg = """\

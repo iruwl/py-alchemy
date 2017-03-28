@@ -1,7 +1,493 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44455b97-340d-4427-91f8-82acc81dd47c" name="Default" comment="" />
+    <list default="true" id="44455b97-340d-4427-91f8-82acc81dd47c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-Black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-BlackIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-BoldIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-ExtraLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-ExtraLightIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-It.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-LightIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-Semibold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/EOT/SourceSansPro-SemiboldIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-Black.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-BlackIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-Bold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-BoldIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-ExtraLight.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-ExtraLightIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-It.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-Light.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-LightIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-Semibold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/OTF/SourceSansPro-SemiboldIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-BlackIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-BoldIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-ExtraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-ExtraLightIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-It.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-LightIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-Semibold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/TTF/SourceSansPro-SemiboldIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-Black.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-BlackIt.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-Bold.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-BoldIt.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-ExtraLight.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-ExtraLightIt.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-It.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-Light.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-LightIt.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-Regular.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-Semibold.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/OTF/SourceSansPro-SemiboldIt.otf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-Black.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-BlackIt.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-Bold.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-BoldIt.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-ExtraLight.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-ExtraLightIt.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-It.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-Light.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-LightIt.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-Regular.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-Semibold.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF/TTF/SourceSansPro-SemiboldIt.ttf.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-Black.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-BlackIt.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-Bold.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-BoldIt.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-ExtraLight.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-ExtraLightIt.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-It.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-Light.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-LightIt.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-Regular.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-Semibold.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/OTF/SourceSansPro-SemiboldIt.otf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-Black.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-BlackIt.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-Bold.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-BoldIt.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-ExtraLight.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-ExtraLightIt.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-It.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-Light.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-LightIt.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-Regular.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-Semibold.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/WOFF2/TTF/SourceSansPro-SemiboldIt.ttf.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/times_new_yorker.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/img/boxed-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/img/default-50x50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/img/user2-160x160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/images/filler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/images/insert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/images/loading-background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/collection.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/collection_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/copy_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/csv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/csv_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/pdf_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/print_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/psd/collection.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/psd/copy document.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/psd/file_types.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/psd/printer.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/images/xls_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/swf/copy_csv_xls.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/swf/copy_csv_xls_pdf.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/flat@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/futurico/futurico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/futurico/futurico@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/line@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/minimal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/minimal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/polaris/polaris.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/polaris/polaris@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/square@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/AdminLTE.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/AdminLTE.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/bootstrap.irul.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/ionicons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/ionicons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/_all-skins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/_all-skins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-black-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-black-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-black.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-blue-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-blue-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-blue.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-green-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-green-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-green.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-purple-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-purple-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-purple.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-red-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-red-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-red.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-yellow-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-yellow-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/skins/skin-yellow.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/css/sticky-footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/fonts/source-sans-pro/source-sans-pro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/app.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/jquery-2.2.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/jquery.inputmask.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/vue-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/vue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/js/vue.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/dataTables.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/Readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/css/dataTables.autoFill.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/examples/columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/examples/complete-callback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/examples/fill-both.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/examples/fill-horizontal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/examples/scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/examples/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/examples/step-callback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/AutoFill/js/dataTables.autoFill.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/alt_insert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/col_filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/colvis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/fixedcolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/fixedheader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/new_init.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/predefined.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/realtime.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/reset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/server_side.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/examples/state_save.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/css/dataTables.colVis.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/css/dataTables.colVis.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/css/dataTables.colvis.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/button_order.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/exclude_columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/group_columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/mouseover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/new_init.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/restore.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/title_callback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/two_tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/examples/two_tables_identical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/js/dataTables.colVis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/ColVis/js/dataTables.colVis.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/col_filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/colvis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/css_size.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/index_column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/left_right_columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/right_column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/rowspan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/server-side-processing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/size_fixed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/size_fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/examples/two_columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/Readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/examples/header_footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/examples/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/examples/top_left_right.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/examples/two_tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/examples/zIndexes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/Readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/css/dataTables.keyTable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/examples/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/examples/html.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/examples/scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/examples/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/KeyTable/js/dataTables.keyTable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/css/dataTables.responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/css/dataTables.responsive.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/child-rows/column-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/child-rows/custom-renderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/child-rows/disable-child-rows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/child-rows/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/child-rows/right-column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/child-rows/whole-row-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/display-control/auto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/display-control/classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/display-control/complexHeader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/display-control/fixedHeader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/display-control/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/display-control/init-classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/initialisation/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/initialisation/className.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/initialisation/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/initialisation/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/initialisation/option.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/styling/compact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/examples/styling/scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/js/dataTables.responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/Readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/css/dataTables.scroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/css/dataTables.scroller.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/examples/api_scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/examples/data/2500.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/examples/data/ssp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/examples/large_js_source.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/examples/server-side_processing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/examples/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/examples/state_saving.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/js/dataTables.scroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/Scroller/js/dataTables.scroller.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/css/dataTables.tableTools.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/alter_buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/button_text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/collection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/defaults.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/multi_instance.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/multiple_tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/new_init.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/pdf_message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/plug-in.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/select_column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/select_multi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/select_os.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/select_single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/examples/swf_path.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/jquery.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/jquery.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/datatables/jquery.dataTables_themeroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/fastclick/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/fastclick/fastclick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/flat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/flat/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/futurico/futurico.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/icheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/icheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/line.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/line/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/minimal/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/polaris/polaris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/square.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/iCheck/square/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/slimScroll/jquery.slimscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/static/plugins/slimScroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/templates/mainlayout.pt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alchemy/templates/mytemplate.pt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alchemy/templates/404.jinja2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alchemy/templates/mytemplate.jinja2" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/alchemy/templates/layout.jinja2" afterPath="$PROJECT_DIR$/alchemy/templates/layout.pt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alchemy/__init__.py" afterPath="$PROJECT_DIR$/alchemy/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alchemy/views/default.py" afterPath="$PROJECT_DIR$/alchemy/views/default.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alchemy/views/notfound.py" afterPath="$PROJECT_DIR$/alchemy/views/notfound.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,11 +496,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="development.ini" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/development.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>starter2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>alchemy</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/alchemy/__init__.py" />
+        <option value="$PROJECT_DIR$/alchemy/views/notfound.py" />
+        <option value="$PROJECT_DIR$/alchemy/views/default.py" />
+        <option value="$PROJECT_DIR$/alchemy/templates/mainlayout.pt" />
+        <option value="$PROJECT_DIR$/alchemy/templates/layout.pt" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
     <option name="y" value="27" />
     <option name="width" value="1368" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -94,42 +620,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alchemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alchemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alchemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alchemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alchemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alchemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -138,6 +628,11 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/alchemy" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,6 +645,93 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.devel">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/ENV/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="alchemy" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="alchemy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="alchemy" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="alchemy" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="devel" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/ENV/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="alchemy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ENV/bin/pserve" />
+      <option name="PARAMETERS" value="development.ini --reload" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.devel" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -168,11 +750,11 @@
     <frame x="-1" y="27" width="1368" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -194,5 +776,113 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/alchemy/static/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alchemy/views/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ENV/local/lib/python2.7/site-packages/waitress/channel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="337" column="0" lean-forward="false" selection-start-line="337" selection-start-column="0" selection-end-line="337" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alchemy/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alchemy/templates/mytemplate.pt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alchemy/templates/mainlayout.pt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="266" column="51" lean-forward="false" selection-start-line="266" selection-start-column="51" selection-end-line="266" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#13096#13103#0" expanded="true" />
+            <element signature="e#13221#13227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alchemy/templates/layout.pt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="80" lean-forward="false" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+          <folding>
+            <marker date="1490717015113" expanded="false" signature="2158:2164" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alchemy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alchemy/views/notfound.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alchemy/views/default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/development.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
