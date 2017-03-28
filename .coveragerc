@@ -1,0 +1,3 @@
+[run]
+source = alchemy
+omit = alchemy/test*
